@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\mike\documents\openframeworks\of-public-10\apps\myapps\data-driven-app-option-1-mikeytw\datadrivenapp\main.cpp(27): warning C4390: ';': empty controlled statement found; is this the intent?
+  DataDrivenApp.vcxproj -> C:\Users\Mike\Documents\OpenFrameworks\OF-Public-10\apps\myApps\data-driven-app-option-1-Mikeytw\DataDrivenApp\Debug\DataDrivenApp.exe
